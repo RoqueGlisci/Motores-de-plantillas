@@ -1,0 +1,1 @@
+En mi opinión el motor de plantillas que mas me agrado fue el ejs porque fue el que nos enseñaron a usar mojor. Los demás no me gustaron por falta de información y dificultad para poder hacer una tabla tanto en hbs como pug.
